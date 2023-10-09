@@ -3,8 +3,9 @@
 This is a simple Todo application built with React, Redux Toolkit, and Material-UI. It allows you to add, remove, and sort tasks (by completed, uncompleted, and ready-to-do).
 
 
+<img width="1098" alt="todoapp" src="https://github.com/KseniaShepherd/ToDoApp/assets/43641658/a3494bda-7aca-4284-bed1-1a73558cac6a">
 
-<image src="/public/todoapp.png" alt="Текст с описанием картинки">
+
 
 ## Technologies Used
 
