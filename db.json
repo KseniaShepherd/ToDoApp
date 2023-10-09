@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 9,
+      "title": "Изучить HTML и CSS",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Освоить JavaScript и TypeScript",
+      "completed": true
+    },
+    {
+      "id": 1,
+      "title": "Погрузиться в Responsive Web Design",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Изучить React",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "title": "Практика и проекты: поработать над небольшими проектами, чтобы применить свои знания на практике.Создать портфолио, чтобы продемонстрировать свои навыки потенциальным работодателям.",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Поиск опыта. Поучаствовать в стажировке",
+      "completed": true
+    },
+    {
+      "id": 7,
+      "title": "Пройти собеседование и получить первый офер!!!",
+      "completed": false
+    }
+  ]
+}

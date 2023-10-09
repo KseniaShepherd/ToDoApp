@@ -1,0 +1,19 @@
+
+.done-icon:active {
+  color: #6fbf73;
+}
+.cardContent {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+.done-icon.completed {
+  color: #4caf50; 
+}
+
+.animatable {
+  width: 280px;
+  height: 100px; 
+  overflow: hidden; 
+  background-image: url('/Users/ksenialukina/Lessons/Han/RTKQueryLesson/rtk/public/frame.png');
+}

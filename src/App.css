@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #f0aa4ecd; 
+  height: 1780px;
+}
+
+.titleAndLogo {
+  display: flex;
+  justify-content: start;
+  font-family: "Pixelify Sans";
+  color: white;
+  font-size: 26px;
+}
+
+.todosContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}

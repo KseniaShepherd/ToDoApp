@@ -1,0 +1,26 @@
+.content {
+  padding-top: 69px;
+  width: 100%;
+  margin: 0 auto;
+  background-color: #7e37dacd;
+  background-image: url('../public/back.png');
+  background-size: cover; 
+  padding-left: 20px; 
+  padding-right: 20px; 
+
+  @media (max-width: 840px) {
+    padding-left: 35px;
+    padding-right: 35px;
+  }
+}
+
+.outer-container {
+  display: flex;
+  justify-content: center;
+}
+
+.inner-container {
+  max-width: 1240px; /* или другая ширина, которая вам подходит */
+  width: 100%;
+}
+
