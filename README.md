@@ -2,6 +2,11 @@
 
 This is a simple Todo application built with React, Redux Toolkit, and Material-UI. It allows you to add, remove, and sort tasks (by completed, uncompleted, and ready-to-do).
 
+
+<img width="1098" alt="todoapp" src="https://github.com/KseniaShepherd/ToDoApp/assets/43641658/a3494bda-7aca-4284-bed1-1a73558cac6a">
+
+
+
 ## Technologies Used
 
 - React
@@ -23,11 +28,23 @@ To run this project locally, follow these steps:
    cd rtk
 3. Install the dependencies:
    ```bash
-  npm install
+   npm install
 4. Start the development server:
     ```bash
     npm start
 5.  Open your browser and visit http://localhost:3000 to view the app. 
+## Running with JSON Server
+
+To run the app with JSON Server for mock API data, follow these additional steps:
+
+1. Install JSON Server globally (if not already installed):
+   ```bash
+   npm install -g json-server
+   
+2. Start JSON Server:
+   ```bash
+   npm run json
+ Now your app will use the mock API provided by JSON Server.
 
 ## Features
 - Add new tasks to your todo list.
